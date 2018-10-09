@@ -1,4 +1,4 @@
-#classes in ES5 vs ES6
+# classes in ES5 vs ES6
 
 Javascript is a prototype object oriented base language. Javascript does not support class based object oriented design patterns by default.
 
